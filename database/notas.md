@@ -1,1 +1,5 @@
-# Base de datos
+- catalogo_platillos
+- clientes
+- menu_diario
+- pedidos
+- historial_credito# Base de datos
