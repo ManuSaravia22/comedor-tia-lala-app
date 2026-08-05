@@ -10,3 +10,5 @@ App para gestionar los pedidos, clientes y fiado del comedor.
 ## Estado del proyecto
 - Semana 1: Git básico ✓
 - Semana 2: Git intermedio (en progreso)
+## Notas temporales
+Esto es un cambio a medias...
