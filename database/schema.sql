@@ -3,3 +3,4 @@
 -historial_credito
 -menu_diario
 -pedidos
+-detalle_pedidos
